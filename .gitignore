@@ -1,0 +1,22 @@
+# IntelliJ project folder.
+/.idea/
+
+# IntelliJ project file.
+*.iml
+
+# Build folders.
+/*/target/
+
+# Generated Swagger Docs
+/zpds-adapter-service/src/docs/generated
+/zpds-adapter-service/src/main/resources/public/index.html
+
+# Generate Jboss Deployment files
+/zpds-adapter-service/src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+/zpds-adapter-service/src/main/webapp/WEB-INF/jboss-web.xml
+zpds-adapter-service/src/main/webapp/WEB-INF/web.xml
+/.settings/
+/.project
+*/.settings/
+*/.classpath
+*/.project
