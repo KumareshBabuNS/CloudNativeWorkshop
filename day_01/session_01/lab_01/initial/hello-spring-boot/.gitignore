@@ -1,0 +1,13 @@
+# IntelliJ project folder.
+/.idea/
+
+# IntelliJ project file.
+*.iml
+
+# Build folders.
+/*/target/
+/.settings/
+/.project
+*/.settings/
+*/.classpath
+*/.project
