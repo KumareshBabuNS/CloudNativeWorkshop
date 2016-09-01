@@ -15,3 +15,5 @@
 8. cf start cf-scale-boot
 
 9. cf logs cf-scale-boot --recent
+
+10. cf cs p-mysql 100mb-dev springbox-catalog-db
