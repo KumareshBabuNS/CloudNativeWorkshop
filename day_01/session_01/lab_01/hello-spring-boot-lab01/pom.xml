@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.spring.pivotal</groupId>
-	<artifactId>hello-spring-boot</artifactId>
+	<artifactId>hello-spring-boot-lab01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>hello-spring-boot</name>
+	<name>hello-spring-boot-lab01</name>
 	<description>Hello Spring Boot</description>
 
 	<parent>

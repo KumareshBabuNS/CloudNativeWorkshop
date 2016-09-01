@@ -1,0 +1,5 @@
+io\spring\pivotal\sensor\SensorData.class
+io\spring\pivotal\sensor\SensorDataSource.class
+io\spring\pivotal\sensor\SensorDataController.class
+io\spring\pivotal\sensor\SensorDataSink.class
+io\spring\pivotal\sensor\SensorSourceSpringCloudStreamApplication.class

@@ -1,0 +1,1 @@
+temperature=0; while true; do { curl -X POST -H "Content-Type: application/json" -d '{"sensorId":"1","temperature":"'"$temperature"'"}' localhost:8080/ingest; sleep 1; ((temperature++)); printf "\n";} done

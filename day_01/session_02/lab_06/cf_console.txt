@@ -1,0 +1,17 @@
+1. Proxy setzen
+
+2. cf api xxx
+
+3. cf login
+
+4. cf push
+
+5. cf apps
+
+6. cf events cf-scale-boot
+
+7. cf stop cf-scale-boot
+
+8. cf start cf-scale-boot
+
+9. cf logs cf-scale-boot --recent
